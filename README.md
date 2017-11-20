@@ -11,16 +11,16 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them
+	Spring Boot 1.5.2.RELEASE
+	Spring 4.3.7.RELEASE
+	jmustache 1.13
+	Thymeleaf 2.1.5.RELEASE
+	Tomcat Embed 8.5.11
+	Maven 3
+	Java 8
 
-		Spring Boot 1.5.2.RELEASE
-		Spring 4.3.7.RELEASE
-		jmustache 1.13
-		Tomcat Embed 8.5.11
-		Maven 3
-		Java 8
-		
-		MySQL 5.7.x
-		HikariCP 2.6
+	MySQL 5.7.x
+	HikariCP 2.6
 
 ### Installing
 
@@ -47,7 +47,7 @@ mvn spring-boot:run
 
 ## Built With
 
-* [Spring Boot] (https://projects.spring.io/spring-boot/#quick-start) - The web framework used
+* [SpringBoot] (https://projects.spring.io/spring-boot/#quick-start) - The web framework used
 * [jmustache](https://github.com/samskivert/jmustache) - Templating language. Used JAVA specifications.
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [HikariCP](https://github.com/brettwooldridge/HikariCP) - A solid high-performance JDBC connection pool at last.
