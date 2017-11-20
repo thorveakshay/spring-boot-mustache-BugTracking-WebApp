@@ -47,7 +47,7 @@ mvn spring-boot:run
 
 ## Built With
 
-* [SpringBoot] (https://projects.spring.io/spring-boot/#quick-start) - The web framework used
+* [Spring Boot] (https://projects.spring.io/spring-boot/) - The web framework used
 * [jmustache](https://github.com/samskivert/jmustache) - Templating language. Used JAVA specifications.
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [HikariCP](https://github.com/brettwooldridge/HikariCP) - A solid high-performance JDBC connection pool at last.
@@ -55,7 +55,7 @@ mvn spring-boot:run
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
